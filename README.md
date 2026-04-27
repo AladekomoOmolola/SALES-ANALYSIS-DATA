@@ -42,6 +42,14 @@ It enables users to explore trends, compare performance across regions and produ
   - Slicers
   - Data Cleaning & Transformation
 
----
+--- Recommendations
+
+Based on the insights derived from the dashboard, the following recommendations are suggested to improve business performance:
+1). Focus on high-performing products: Prioritize production and marketing of products with consistently high profit margins to maximize revenue.
+2). Improve underperforming product lines: Investigate products with low or negative profitability and consider pricing adjustments, cost reduction, or discontinuation.
+3). Strengthen sales representative performance: Provide targeted training and incentives for lower-performing sales reps to boost overall revenue contribution.
+4). Optimize regional strategies: Allocate more resources to high-performing regions while developing targeted strategies to improve sales in weaker regions.
+5). Enhance customer targeting: Use customer distribution data to refine marketing strategies and improve customer acquisition and retention.
+6). Monitor monthly trends closely: Investigate fluctuations in monthly profit to identify seasonal patterns and improve forecasting accuracy.
 
 ## 📂 Project Structure
